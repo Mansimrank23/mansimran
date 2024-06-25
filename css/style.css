@@ -1,0 +1,38 @@
+.skill{
+    margin: 50px 0px 10px 0px;
+    display:flex ;
+    justify-content: center;
+    font-weight:800;
+    margin-bottom: 0px;
+}
+.about{
+    margin: 50px 0px 10px 0px;
+    display: flex;
+    height:7vh;
+    justify-content: center;
+    font-weight:800;
+}
+.des{
+    display: flex;
+    height:10vh;
+    justify-content: center;
+}
+.bottom-container {
+    margin: 50px 0px 10px 0px;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+.footer-link{
+    text-decoration: none;
+}
+.carousel{
+    height:100px;
+}
+.projecth{
+    text-align: center;
+    font-weight: 800;
+}
+.project{
+    display: inline-block;
+    height: auto;
+}
