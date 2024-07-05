@@ -32,7 +32,8 @@
     text-align: center;
     font-weight: 800;
 }
-.project{
-    display: inline-block;
-    height: auto;
+.projects{
+    text-align: center;
+    margin: 50px 0px 10px 0px;
+    font-weight:800;
 }
